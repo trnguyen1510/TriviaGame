@@ -30,14 +30,14 @@ img {
 }
 
 body {
-  background-image: url("assets/images/blog-dna-testing-in-the-animal-kingdom-1.png");
+  background-image: url("../images/blog-dna-testing-in-the-animal-kingdom-1.png");
   background-size: cover;
   font-family: 'Karla', sans-serif;
 }
 
 h1 {
   text-align: center;
-  color: white;
+  color: rgb(8, 8, 8);
   font-weight: bolder;
   padding: 20px;
   font-size: 45px;
